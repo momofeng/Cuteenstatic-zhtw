@@ -24,7 +24,7 @@
 	margin: 1rem 0;
 }
 
-/*表单*/
+/*表單*/
 
 .label {
 	font-size: .875rem;
@@ -83,7 +83,7 @@
 	border: 3px solid #1ABC9C;
 }
 
-/*按钮*/
+/*按鈕*/
 
 .btn {
 	font-size: 1rem;
@@ -178,7 +178,7 @@
 	background: var(--mzi);
 }
 
-/*画廊*/
+/*畫廊*/
 
 .photos {
 	width: 100%;
@@ -202,7 +202,7 @@
 	border-bottom: unset
 }
 
-/*刮刮乐*/
+/*刮刮樂*/
 
 blur-text, blur-text * {
 	text-shadow: rgba(0, 0, 0, 0.701961) 0px 0px 10px;
@@ -249,7 +249,7 @@ rainbow-text, rainbow-text * {
 	}
 }
 
-/*进度条*/
+/*進度條*/
 
 .progress {
 	-moz-appearance: none;
@@ -418,7 +418,7 @@ rainbow-text, rainbow-text * {
 	}
 }
 
-/*折叠面板*/
+/*摺疊面板*/
 
 .accordion {
 	margin: 1rem 0;
